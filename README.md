@@ -12,7 +12,8 @@ Components Connected-
 - 1x P-type Transistor
 
 Power Consumption-
-This circuit is powered by Compact low profile AC-DC power supply
+This circuit is powered by Compact low profile AC-DC power supply.
+
 Voltage output- 24V
 Max Current - 42mA
 
