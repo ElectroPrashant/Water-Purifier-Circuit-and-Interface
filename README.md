@@ -24,7 +24,7 @@ Thus, Max resistance would be 5V/40mA = 128 ohms.
 
 To get volatage drop of around 5V across the Arduino Nano.
 
-We need resistor of around 614 ohms.
+We need resistor of around 24/4*128 = 614 ohms.
 
 Any fluctuation/Miscalculated Power would be handeled by in-built Voltage Regulator.
 
