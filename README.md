@@ -1,5 +1,6 @@
 # Water-Purifier-Circuit-and-Interface
 This circuit is controlled by Arduino Nano.
+
 Components Connected-
 - 24V DC Solenoid
 - Sparkfun 16x2 LCD
